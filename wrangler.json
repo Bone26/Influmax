@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "jap-proxy",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "051c4d0d-cb29-4b38-af7e-8256f4f3468e",
+      "database_name": "square-dream-6718-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
